@@ -82,7 +82,6 @@ SQL-Sales-Analysis/
 │   ├── intermediate_queries.sql
 │   └── advanced_queries.sql
 │
-├── screenshots/
 │
 ├── project.sql
 │
@@ -139,5 +138,5 @@ Akash Anjalo
 ---
 
 ## Connect With Me
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/Akashanjalo
+- LinkedIn: https://linkedin.com/in/Akash_anjalo
